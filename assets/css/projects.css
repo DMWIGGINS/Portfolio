@@ -1,8 +1,28 @@
 body {
-    /* background-image: url(../images/efe-kurnaz-315384-unsplash.jpg); */
+    background-image: url(../images/efe-kurnaz-315384-unsplash.jpg);
     /* background-image: url(../images/subtle_textured_green_background_image.jpg); */
     background-size: cover;
     /* background-image: url(../images/andrew-ridley-76547-unsplash.jpg); */
-    background-image: url(../images/annie-spratt-42051-unsplash.jpg);
-
+    /* background-image: url(../images/annie-spratt-42051-unsplash.jpg); */
+    /* background-image: url(../images/clement-h-544786-unsplash.jpg); */
+    /* background-image: url(../images/ilya-pavlov-87438-unsplash.jpg); */
+    /* background-image: url(../images/irvan-smith-563895-unsplash.jpg); */
+    /* background-image: url(../images/markus-spiske-109588-unsplash.jpg); */
+    /* background-image: url(../images/markus-spiske-507983-unsplash.jpg); */
+    background-image: url(../images/nhu-nguyen-527972-unsplash.jpg);
 }
+
+.parallax-container {
+    height: 500px;
+}
+
+.brand-logo, .nav-wrapper {
+    font-family: 'Indie Flower', cursive;
+}
+
+
+
+    
+
+/* font-family: 'Indie Flower', cursive;
+font-family: 'Raleway', sans-serif; */
