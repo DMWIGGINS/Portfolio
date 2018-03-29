@@ -1,7 +1,6 @@
-body {
-    background-image: url(../images/efe-kurnaz-315384-unsplash.jpg);
+/* body { */
+    /* background-image: url(../images/efe-kurnaz-315384-unsplash.jpg); */
     /* background-image: url(../images/subtle_textured_green_background_image.jpg); */
-    background-size: cover;
     /* background-image: url(../images/andrew-ridley-76547-unsplash.jpg); */
     /* background-image: url(../images/annie-spratt-42051-unsplash.jpg); */
     /* background-image: url(../images/clement-h-544786-unsplash.jpg); */
@@ -9,20 +8,52 @@ body {
     /* background-image: url(../images/irvan-smith-563895-unsplash.jpg); */
     /* background-image: url(../images/markus-spiske-109588-unsplash.jpg); */
     /* background-image: url(../images/markus-spiske-507983-unsplash.jpg); */
-    background-image: url(../images/nhu-nguyen-527972-unsplash.jpg);
-}
-
-.parallax-container {
-    height: 500px;
-}
-
-.brand-logo, .nav-wrapper {
+    /* background-image: url(../images/nhu-nguyen-527972-unsplash.jpg); */
+/* } */
+.brand-logo,
+.nav-wrapper {
     font-family: 'Indie Flower', cursive;
 }
 
-
-
+nav {
+    border-bottom: 1px solid rgb(6, 243, 37);
+}
+.parallax {
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    background-image: url(../images/nhu-nguyen-527972-unsplash.jpg); 
+    height: 1190px;
+    background-attachment: fixed;
+}
+.section {
+    background-color: rgba(0, 0, 0, 0.2);
     
+ }
+#bio {
+    background-color: white;
+    opacity: .05;
+    font: black;
+}
+/* background-color: rgba(0, 0, 0, 0.6);
+background: rgba(0, 0, 0, 0.7);
+width: 100%;
+color: white;
+padding: 25px 0;
+} */
+/* body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+} */
 
 /* font-family: 'Indie Flower', cursive;
 font-family: 'Raleway', sans-serif; */
+
+.page-footer {
+    text-align: center;
+}
