@@ -1,15 +1,26 @@
 /* body { */
-    /* background-image: url(../images/efe-kurnaz-315384-unsplash.jpg); */
-    /* background-image: url(../images/subtle_textured_green_background_image.jpg); */
-    /* background-image: url(../images/andrew-ridley-76547-unsplash.jpg); */
-    /* background-image: url(../images/annie-spratt-42051-unsplash.jpg); */
-    /* background-image: url(../images/clement-h-544786-unsplash.jpg); */
-    /* background-image: url(../images/ilya-pavlov-87438-unsplash.jpg); */
-    /* background-image: url(../images/irvan-smith-563895-unsplash.jpg); */
-    /* background-image: url(../images/markus-spiske-109588-unsplash.jpg); */
-    /* background-image: url(../images/markus-spiske-507983-unsplash.jpg); */
-    /* background-image: url(../images/nhu-nguyen-527972-unsplash.jpg); */
-    /* background-color: #607d8b blue-grey; */
+
+/* background-image: url(../images/efe-kurnaz-315384-unsplash.jpg); */
+
+/* background-image: url(../images/subtle_textured_green_background_image.jpg); */
+
+/* background-image: url(../images/andrew-ridley-76547-unsplash.jpg); */
+
+/* background-image: url(../images/annie-spratt-42051-unsplash.jpg); */
+
+/* background-image: url(../images/clement-h-544786-unsplash.jpg); */
+
+/* background-image: url(../images/ilya-pavlov-87438-unsplash.jpg); */
+
+/* background-image: url(../images/irvan-smith-563895-unsplash.jpg); */
+
+/* background-image: url(../images/markus-spiske-109588-unsplash.jpg); */
+
+/* background-image: url(../images/markus-spiske-507983-unsplash.jpg); */
+
+/* background-image: url(../images/nhu-nguyen-527972-unsplash.jpg); */
+
+/* background-color: #607d8b blue-grey; */
 
 /* } */
 
@@ -17,11 +28,12 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-  }
+}
 
-  main {
+main {
     flex: 1 0 auto;
-  }
+}
+
 .brand-logo,
 .nav-wrapper {
     font-family: 'Indie Flower', cursive;
@@ -31,12 +43,13 @@ nav {
     /* border-bottom: 3px solid rgb(87, 141, 145); */
     border-bottom: 1px solid rgb(6, 243, 37);
 }
+
 .parallax {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
     /* background-image: url(../images/nhu-nguyen-527972-unsplash.jpg);  */
-    background-image: url(../images/nhu-nguyen2-527972-unsplash.jpg); 
+    background-image: url(../images/nhu-nguyen2-527972-unsplash.jpg);
     /* background-image: url(../images/markus-spiske-507983-unsplash.jpg); */
     /* background-image: url(../images/clement-h-544786-unsplash.jpg); */
     /* background-image: url(../images/ilya-pavlov-87438-unsplash.jpg); */
@@ -44,26 +57,33 @@ nav {
     /* background-image: url(../images/markus-spiske-109588-unsplash.jpg); */
     /* background-image: url(../images/efe-kurnaz-315384-unsplash.jpg); */
     /* background-image: url(../images/andrew-ridley-76547-unsplash.jpg); */
-    
-    
-    
-    
     height: 1900px;
     background-attachment: fixed;
 }
+
 .section {
-    height: 750px;
+    height: 500px;
     background-color: rgb(73, 73, 133, 0.8);
     /* opacity: 0.4; */
-    font-family: 'Raleway', sans-serif; 
- }
+    font-family: 'Raleway', sans-serif;
+}
 
+p {
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+    border-bottom: 1px solid rgb(60, 182, 230);
+}
+
+hr {
+    color: black;
+}
 /* background-color: rgba(0, 0, 0, 0.6);
 background: rgba(0, 0, 0, 0.7);
 width: 100%;
 color: white;
 padding: 25px 0;
 } */
+
 /* body {
     display: flex;
     min-height: 100vh;
@@ -75,9 +95,9 @@ main {
 } */
 
 /* font-family: 'Indie Flower', cursive; */
-/* font-family: 'Raleway', sans-serif;  */
 
 .page-footer {
     text-align: center;
     border-top: 1px solid rgb(6, 243, 37);
+    font-family: 'Raleway', sans-serif;
 }
