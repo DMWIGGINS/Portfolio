@@ -1,0 +1,6 @@
+Why does the footer have a section on the top that is lighter than the rest of it?
+Thinking about using cool pics as part of the About Me panels.
+Could I possibly make the portfolio be in a carousel presentation?  If not then I guess panels?
+I want to re-style the resume to flow with the portfolio.
+Need to has out some skills for the past job descriptions especially ones that can be carry overs.
+Portfolio options:  Newsflashes (fix), Trivia Game, Train Time, Possibly Karma if I can clean it up (get rid of testing within the app)
